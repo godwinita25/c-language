@@ -1,3 +1,8 @@
+/**
+* In printf ( you do not put an '&' (...a, b, c) before the variable name)
+* In scanf ( you must put an '&' (...&a, &b, &c)) before the variable name)
+*/
+
 #include <stdio.h>
 
 int main()
